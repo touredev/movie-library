@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://api.themoviedb.org/3",
+  "apiKey": "4e80269b196c5340d3543cbefd1e4049",
+  "imageBaseUrl": "http://image.tmdb.org/t/p",
+  "backDropSize": "w1280",
+  "posterSize": "w500"
+}
